@@ -1,0 +1,7 @@
+git init gitを入れる
+git add . コミット準備
+git commit -m '' 記録を残す
+
+git log --oneline コミット一覧を確認
+git status 状況を確認
+git
